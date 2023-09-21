@@ -26,7 +26,7 @@ Hello there! I'm Jaffar Keikei, a Computer Science enthusiast from the Universit
 While numbers don't capture everything, they do paint a part of the picture. Here's my journey by the numbers:
 
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=keikei-jaffar&show_icons=true&theme=white&card_width=700" alt="Jaffar's GitHub Stats" width="60%"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=white&card_width=700" alt="Jaffar's GitHub Stats" width="60%"/>
 </div>
 
 ---
@@ -36,7 +36,7 @@ While numbers don't capture everything, they do paint a part of the picture. Her
 Languages are to developers what brushes are to artists. Here's my palette, a visual representation of the languages that paint my GitHub canvas. Alongside, you'll notice my activity statistics, tracking commits, pull requests, and more.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=keikei-jaffar&layout=compact&card_width=500" alt="Languages Used" width="60%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaffarkeikei&layout=compact&card_width=500" alt="Languages Used" width="60%"/>
 </div>
 
 ---
