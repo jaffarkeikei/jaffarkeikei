@@ -51,16 +51,10 @@ Why C++, you ask? Well, I have always been fascinated by systems. The way they w
 
 ### 📈 GitHub Activity Graph
 
+This graph represents my daily activity on GitHub. It shows the number of days I've been active on GitHub in a row, which is also known as my "streak". The longer the streak, the more consistent I've been in coding. It's a fun and motivating way to track my progress and commitment to coding every day.
+
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=white" alt="GitHub Activity Graph" width="60%"/>
-</div>
-
----
-
-### 📅 GitHub Contribution Calendar
-
-<div align="center">
-    <img src="https://github-readme-calendar.herokuapp.com/?username=jaffarkeikei&theme=white" alt="GitHub Contribution Calendar" width="60%"/>
 </div>
 
 ---
