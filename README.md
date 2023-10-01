@@ -35,6 +35,8 @@ While numbers don't capture everything, they do paint a part of the picture. Her
 
 Languages are to developers what brushes are to artists. Here's my palette, a visual representation of the languages that paint my GitHub canvas. Alongside, you'll notice my activity statistics, tracking commits, pull requests, and more.
 
+I strive to maintain a balance in my projects, dedicating 50% of them to one primary language, while the remaining 50% are spread across various other languages. Currently, Python constitutes the majority of my work, but I'm actively working towards increasing my proficiency in C++, despite its steep learning curve, to make it my primary language in the future.
+
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaffarkeikei&layout=compact&card_width=500" alt="Languages Used" width="60%"/>
 </div>
