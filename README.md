@@ -55,15 +55,23 @@ Why C++, you ask? Well, I have always been fascinated by systems. The way they w
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=white" alt="GitHub Activity Graph" width="60%"/>
 </div>
 
+---
+
+### 📅 GitHub Contribution Calendar
+
+<div align="center">
+    <img src="https://github-readme-calendar.herokuapp.com/?username=jaffarkeikei&theme=white" alt="GitHub Contribution Calendar" width="60%"/>
+</div>
 
 ---
+
 ### 📬 Get in Touch
 
 
 If you've got questions, suggestions, or just want to chat, feel free to reach out. 
 - LinkedIn: [jaffarkeikei](https://www.linkedin.com/in/jaffarkeikei/)
 - Email: keikei.jaffar@mail.utoronto.ca
-- Blog: [https://keikei-jaffar.github.io/PersonalPortfolio/](https://keikei-jaffar.github.io/PersonalPortfolio/)
+- Blog: [https://keikei-jaffar.github.io/jaffarkeikei/](https://jaffarkeikei.github.io/jaffarkeikei/)
 
 
 🌍 Wherever you are in the world, I hope code brings you as much joy as it does to me!
