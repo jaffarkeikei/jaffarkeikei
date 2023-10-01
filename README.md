@@ -69,7 +69,7 @@ As I continue to grow and learn, I have set some goals for myself to achieve in 
 
 🔹 Contribute to open-source projects that have a significant impact on the community.
 
-🔹 Explore the field of Artificial Intelligence / Machine Learning and their interaction with the systems programming.
+🔹 Explore the field of Artificial Intelligence / Machine Learning and their interaction with systems programming.
 
 🔹 Improve my problem-solving skills by solving complex algorithms and data structure problems.
 
