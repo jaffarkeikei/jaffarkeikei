@@ -56,6 +56,7 @@ This graph represents my daily activity on GitHub. It shows the number of days I
 
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=white" alt="GitHub Activity Graph" width="60%"/>
+    <img src="flame.gif" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" />
 </div>
 
 ---
