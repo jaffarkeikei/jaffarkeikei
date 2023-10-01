@@ -30,8 +30,6 @@ While numbers don't capture everything, they do paint a part of the picture. Her
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=white&card_width=700" alt="Jaffar's GitHub Stats" width="60%"/>
-    <br>
-    <b>Total Lines of Code:</b> <img src="https://tokei.rs/b1/github/jaffarkeikei?category=code" alt="Total lines of code">
 </div>
 
 Please note that these numbers do not reflect the entirety of my coding activity. I also contribute to private repositories and work on projects outside of GitHub. So while these numbers provide a glimpse into my coding journey, they are just the tip of the iceberg.
