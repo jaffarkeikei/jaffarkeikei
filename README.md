@@ -18,6 +18,7 @@ Hello there! I'm Jaffar Keikei, a Computer Science enthusiast from the Universit
 - 🚀 Projects that traverse the realms of web development to systems programming.
 - 📚 A continuous learner with an ardor for self-improvement.
 - 🤝 Collaborative experiences and peer projects.
+- 🐧 A passionate Linux enthusiast.
 
 ---
 
@@ -59,14 +60,30 @@ This graph represents my daily activity on GitHub. It shows the number of days I
 
 ---
 
+### 🎯 Future Goals
+
+As I continue to grow and learn, I have set some goals for myself to achieve in the near future:
+
+🔹 Master the intricacies of C++ and make it my primary language for systems programming.
+🔹 Contribute to open-source projects that have a significant impact on the community.
+🔹 Explore the field of Artificial Intelligence and Machine Learning.
+🔹 Improve my problem-solving skills by solving complex algorithms and data structure problems.
+🔹 Collaborate with other developers on projects that solve real-world problems.
+
+These goals keep me motivated and focused on my journey as a software developer. I believe that with consistent effort and a passion for learning, I can achieve these goals and continue to grow as a developer.
+
+
+---
+
 ### 📬 Get in Touch
 
 
 If you've got questions, suggestions, or just want to chat, feel free to reach out. 
-- LinkedIn: [jaffarkeikei](https://www.linkedin.com/in/jaffarkeikei/)
+- LinkedIn: [https://www.linkedin.com/in/jaffarkeikei/](https://www.linkedin.com/in/jaffarkeikei/)
+- Portfolio: [https://jaffarkeikei.github.io/jaffarkeikei/](https://jaffarkeikei.github.io/jaffarkeikei/)
+- LeetCode: [https://leetcode.com/jaffarkeikei/](https://leetcode.com/jaffarkeikei/)
+- GitLab: [https://gitlab.com/jaffarkeikei/](https://gitlab.com/jaffarkeikei/)
 - Email: keikei.jaffar@mail.utoronto.ca
-- Blog: [https://keikei-jaffar.github.io/jaffarkeikei/](https://jaffarkeikei.github.io/jaffarkeikei/)
-
 
 🌍 Wherever you are in the world, I hope code brings you as much joy as it does to me!
 
