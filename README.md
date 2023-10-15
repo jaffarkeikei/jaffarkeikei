@@ -64,10 +64,15 @@ This graph represents my daily activity on GitHub. It shows the number of days I
 ### 🎯 Future Goals
 
 As I continue to grow and learn, I have set some goals for myself to achieve in the near future:
+
 🔹 Master the intricacies of C++ and make it my primary language for systems programming.
+
 🔹 Contribute to open-source projects that have a significant impact on the community.
+
 🔹 Explore the field of Artificial Intelligence / Machine Learning and their interaction with systems programming.
+
 🔹 Improve my problem-solving skills by solving complex algorithms and data structure problems.
+
 🔹 Collaborate with other developers on projects that solve real-world problems.
 
 These goals keep me motivated and focused on my journey as a software developer. I believe that with consistent effort and a passion for learning, I can achieve these goals and continue to grow as a developer.
