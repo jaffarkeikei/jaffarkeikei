@@ -85,6 +85,7 @@ If you've got questions, suggestions, or just want to chat, feel free to reach o
 - GitLab: [https://gitlab.com/jaffarkeikei/](https://gitlab.com/jaffarkeikei/)
 - Email: keikei.jaffar@mail.utoronto.ca
 
+
 🌍 Wherever you are in the world, I hope code brings you as much joy as it does to me!
 
 🙏 Thank you for exploring and diving into my corner of GitHub!
