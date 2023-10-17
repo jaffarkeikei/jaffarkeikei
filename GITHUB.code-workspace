@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c",
+			"limits": "c",
+			"ratio": "c",
+			"chrono": "c",
+			"random": "c",
+			"algorithm": "c"
+		},
+		"git.ignoreLimitWarning": true
+	}
+}

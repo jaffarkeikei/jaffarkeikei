@@ -71,7 +71,7 @@ As I continue to grow and learn, I have set some goals for myself to achieve in 
 
 🔹 Explore the field of Artificial Intelligence / Machine Learning and their interaction with systems programming.
 
-🔹 Improve my problem-solving skills by making problem solving a habit, joining LeetCode The Hard way Community.
+🔹 Improve my problem-solving skills by making problem solving a habit, joining [LeetCode The Hard Way](https://leetcodethehardway.com/) community.
 
 🔹 Collaborate with other developers on projects that solve real-world problems.
 
