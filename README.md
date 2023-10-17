@@ -14,7 +14,7 @@ Hello there! I'm Jaffar Keikei, a Computer Science enthusiast from the Universit
 
 ### 🔥 Highlights
 
-- 🌐 Dive into a mix of languages: Python, Java, C and more.
+- 🌐 Dive into a mix of languages: Python, C, Java, C++ and more.
 - 🚀 Projects that traverse the realms of web development to systems programming.
 - 📚 A continuous learner with an ardor for self-improvement.
 - 🤝 Collaborative experiences and peer projects.
