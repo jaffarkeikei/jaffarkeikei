@@ -77,11 +77,9 @@ As I continue to grow and learn, I have set some goals for myself to achieve in 
 
 These goals keep me motivated and focused on my journey as a software developer. I believe that with consistent effort and a passion for learning, I can achieve these goals and continue to grow as a developer.
 
-
 ---
 
 ### 📬 Get in Touch
-
 
 If you've got questions, suggestions, or just want to chat, feel free to reach out. 
 - LinkedIn: [https://www.linkedin.com/in/jaffarkeikei/](https://www.linkedin.com/in/jaffarkeikei/)
@@ -89,7 +87,6 @@ If you've got questions, suggestions, or just want to chat, feel free to reach o
 - LeetCode: [https://leetcode.com/jaffarkeikei/](https://leetcode.com/jaffarkeikei/)
 - GitLab: [https://gitlab.com/jaffarkeikei/](https://gitlab.com/jaffarkeikei/)
 - Email: keikei.jaffar@mail.utoronto.ca
-
 
 🌍 Wherever you are in the world, I hope code brings you as much joy as it does to me!
 
