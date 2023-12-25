@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Hello there! I'm Jaffar Keikei, a Computer Science enthusiast from the University of Toronto. My passion for software development has led me to create and contribute to various projects right here on GitHub. Dive in to explore my journey across different domains, languages, and technologies!
+Hello! I'm Jaffar Keikei, a Computer Science enthusiast from the University of Toronto. My passion for software development has led me to create and contribute to various projects right here on GitHub. Dive in to explore my journey across different domains, languages, and technologies!
 
 ---
 
