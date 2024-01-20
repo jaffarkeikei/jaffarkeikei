@@ -38,7 +38,7 @@ Please note that these numbers do not reflect the entirety of my coding activity
 
 ### 🖥️ Languages & Tools
 
-Here's a visual representation of the languages I use in my projects, along with my GitHub activity statistics.
+Here's a visual representation of the languages I use in my projects, along with my GitHub activity statistics. These statistics are based on my public repositories only.
 
 I strive to maintain a balance in my projects, dedicating about 50% of them to one primary language, while the remaining 50% are spread across various other languages. Currently, Python constitutes the majority of my work, but I'm actively working towards increasing my proficiency in C++, despite its steep learning curve, to make it my primary language in the future.
 
