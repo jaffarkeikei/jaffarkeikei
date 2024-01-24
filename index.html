@@ -7,6 +7,29 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+				
+		<style>
+		#footerContent {
+		    display: none;
+		}
+		.link-box {
+		    display: inline-block;
+		    border: 1px solid white; /* Change the border color to white */
+		    padding: 10px;
+		    margin: 5px;
+		    width: 100px;
+		    text-align: center;
+		}
+		</style>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+		<script>
+		$(document).ready(function(){
+			$("#contactLink").click(function(){
+				$("#footerContent").toggle();
+			});
+		});
+		</script>
 	</head>
 	<body class="is-preload">
 
@@ -22,9 +45,9 @@
 							<div class="inner">
 								<h1>Jaffar Keikei</h1>
 								<p> 
-								Seeking 2024 Summer Internship <br />
+								Seeking Summer Internship <br />
 								and 2024 Fall / 2025 Winter Co-op <br />
-								2023 Summer Google Intern <br />
+								2023 Summer Google Intern, STEP <br />
 								third-year Computer Science Student <br />
 								university of toronto <br />
 								 </p>
@@ -37,15 +60,23 @@
 								<li><a href="#about">About</a></li>
 								<li><a href="#experience">experience</a></li>
 								<li><a href="#projects">projects</a></li>
-								
-								<!--<li><a href="#elements">Elements</a></li>-->
+
 							</ul>
+							<br />
+
+							<ul>
+								<!-- 
+									FINISH THIS LATER
+									li><a href="#elements">Elements</a></! 
+								-->
+								<li style="text-align: center;"><a id="contactLink">Hidden are my links, want to take a look? Click Me ;)</a></li>
+							</ul>
+
 						</nav>
 					</header>
 
 				<!-- Main -->
 					<div id="main">
-
 						<!-- Intro -->
 							<article id="intro">
 								
@@ -80,6 +111,7 @@
 							</article>
 
 						<!-- Experience -->
+
 							<article id="experience">
 
 								<h3 class="major">Google</h3>
@@ -207,8 +239,25 @@
 							
 							</article>
 
+
 						<!-- Projects -->
 							<article id="projects">
+
+								<h3 class="major">Project EduNexus</h3>
+
+								<p>
+									<b>Language:</b> Python, React, HTML, CSS <br>
+									<b>Platform:</b> VS code, Google Sheets <br>
+									<b>Year    :</b> 2024 <br>
+									<b>Tasks   :</b> 
+											<span style="padding-left: 40px; display:block">
+
+												• 
+												<br>
+												• 
+											</span>
+								</p>
+
 
 								<h3 class="major">Exams Assessments System</h3>
 
@@ -411,13 +460,13 @@
 									<h4>Preformatted</h4>
 									<pre><code>i = 0;
 
-while (!deck.isInOrder()) {
-    print 'Iteration ' + i;
-    deck.shuffle();
-    i++;
-}
+							while (!deck.isInOrder()) {
+								print 'Iteration ' + i;
+								deck.shuffle();
+								i++;
+							}
 
-print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
+							print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 								</section>
 
 								<section>
@@ -635,14 +684,25 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
 					</div>
 
 				<!-- Footer -->
-					<footer id="footer">
-						<p> 
-							<a href="mailto:keikei.jaffar@mail.utoronto.ca"> Email </a> -
-							<a href="https://leetcode.com/jaffarkeikei/"> LeetCode </a> -
-							<a href="https://www.linkedin.com/in/jaffarkeikei"> LinkedIn </a> - 
-							<a href="https://github.com/jaffarkeikei"> GitHub </a> -
-							<a href="https://gitlab.com/jaffarkeikei/"> GitLab </a>
-						</p>
+					<footer id="footerContent">
+						<div style="text-align: center;">
+							<p> 
+								<div class="link-box" style="display: inline-block; border: 1px solid #000; padding: 10px; margin: 5px; width: 100px; text-align: center;">
+									<a href="mailto:keikei.jaffar@mail.utoronto.ca">Email</a>
+								</div>
+								<div class="link-box" style="display: inline-block; border: 1px solid #000; padding: 10px; margin: 5px; width: 100px; text-align: center;">
+									<a href="https://leetcode.com/jaffarkeikei/">LeetCode</a>
+								</div>
+								<div class="link-box" style="display: inline-block; border: 1px solid #000; padding: 10px; margin: 5px; width: 100px; text-align: center;">
+									<a href="https://www.linkedin.com/in/jaffarkeikei">LinkedIn</a>
+								</div>
+								<div class="link-box" style="display: inline-block; border: 1px solid #000; padding: 10px; margin: 5px; width: 100px; text-align: center;">
+									<a href="https://github.com/jaffarkeikei">GitHub</a>
+								</div>
+								<div class="link-box" style="display: inline-block; border: 1px solid #000; padding: 10px; margin: 5px; width: 100px; text-align: center;">
+									<a href="https://gitlab.com/jaffarkeikei/">GitLab</a>
+								</div>
+						</div>
 					</footer>
 
 			</div>
