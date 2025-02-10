@@ -1,6 +1,6 @@
 <div align="center">
 
-## 🌟 This is Jaffar 🌟
+## 🌟 jaffar is a computer science student at the university of toronto 🌟
 
 </div>
 
