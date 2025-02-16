@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm Jaffar Keikei, a Computer Science enthusiast from the University of Toronto. My passion for software development has led me to create and contribute to various projects right here on GitHub. Dive in to explore my journey across different domains, languages, and technologies!
+Hello! I'm Jaffar Keikei. My passion for software development has led me to create and contribute to various projects right here on GitHub. Dive in to explore my journey across different domains, languages, and technologies!
 
 ---
 
@@ -84,7 +84,6 @@ These goals keep me motivated and focused on my journey as a software developer.
 If you've got questions, suggestions, or just want to chat, feel free to reach out. 
 - LinkedIn: [https://www.linkedin.com/in/jaffarkeikei/](https://www.linkedin.com/in/jaffarkeikei/)
 - Portfolio: [https://jaffarkeikei.github.io/jaffarkeikei/](https://jaffarkeikei.github.io/jaffarkeikei/)
-- LeetCode: [https://leetcode.com/jaffarkeikei/](https://leetcode.com/jaffarkeikei/)
 - GitLab: [https://gitlab.com/jaffarkeikei/](https://gitlab.com/jaffarkeikei/)
 - Email: keikei.jaffar@mail.utoronto.ca
 
