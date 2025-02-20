@@ -24,15 +24,12 @@ Hello! I'm Jaffar Keikei. My passion for software development has led me to crea
 
 ### 📊 GitHub Statistics
 
-These statistics represent my activity on GitHub. They include the number of contributions I've made, the number of repositories I've created, and the number of followers I have. They also show the number of issues I've opened and the number of pull requests I've made. These numbers are a testament to my commitment to (open source and) my passion for coding.
-
+These statistics represent my activity on GitHub. They include the number of contributions I've made, the number of repositories I've created, and the number of followers I have. They also show the number of issues I've opened and the number of pull requests I've made.
 While numbers don't capture everything, they do paint a part of the picture. Here's my journey by the numbers:
 
 <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=white&card_width=700" alt="Jaffar's GitHub Stats" width="60%"/>
 </div>
-
-Please note that these numbers do not reflect the entirety of my coding activity. I also contribute to private repositories and work on projects outside of GitHub. So while these numbers provide a glimpse into my coding journey, I significantly contribute to my private repos.
 
 ---
 
