@@ -7,11 +7,9 @@
 ---
 #### 📊 Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=radical&card_width=600" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=github&card_width=600" alt="GitHub Stats"/>
 </div>
-
 ---
-
 #### 🔥 Skills
 <div align="center" style="position: relative;">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,js,linux,docker,git" style="filter: drop-shadow(0 0 15px #62EFB9);"/>
@@ -22,7 +20,7 @@
 
 #### 🌐 Activity
 <div align="center" style="margin: 30px 0; position: relative;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=radical" alt="Activity Graph" style="border-radius: 10px; box-shadow: 0 0 20px #4D96FF;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=github" alt="Activity Graph" style="border-radius: 10px; box-shadow: 0 0 20px #4D96FF;"/>
 </div>
 
 ---
