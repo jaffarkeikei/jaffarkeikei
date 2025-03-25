@@ -11,26 +11,11 @@
 </div>
 
 ---
-#### 🔥 Skills
-<div align="center" style="position: relative;">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,go,java,js,linux,docker,git" style="filter: drop-shadow(0 0 15px #62EFB9);"/>
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; background: radial-gradient(circle, transparent 20%, #000000 20%), radial-gradient(circle, transparent 20%, #000000 20%) 25px 25px; opacity: 0.3;"></div>
-</div>
-
----
 
 #### 🌐 Activity
 <div align="center" style="margin: 30px 0; position: relative;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=github" alt="Activity Graph" style="border-radius: 10px; box-shadow: 0 0 20px #4D96FF;"/>
 </div>
-
----
-
-#### 🎯 2025 Mission
-- [ ] Contribute to 12 open source projects
-- [ ] Build cloud-native SaaS product
-- [ ] Achieve 500+ LeetCode solves
-- [ ] Read 12 technical books
 
 ---
 
