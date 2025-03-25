@@ -4,21 +4,6 @@
   <img src="https://avatars.githubusercontent.com/u/61355293?v=4" alt="Jaffar's Avatar" width="200" style="border-radius:50%; box-shadow: 0 0 20px #62EFB9; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
 </div>
 
----
-#### 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=github&card_width=600" alt="GitHub Stats"/>
-</div>
-
----
-
-#### 🌐 Activity
-<div align="center" style="margin: 30px 0; position: relative;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&theme=github" alt="Activity Graph" style="border-radius: 10px; box-shadow: 0 0 20px #4D96FF;"/>
-</div>
-
----
-
 #### 📡 Contact
 <div align="center" style="margin: 30px 0;">
   <a href="https://linkedin.com/in/jaffarkeikei">
@@ -31,6 +16,6 @@
 
 ---
 <div align="center">
-  <p style="color: #62EFB9; margin-top: 30px;">✨ "Talk is cheap. Show me the code." - Linus Torvalds</p>
+  <p style="color: #62EFB9; margin-top: 30px;">✨ "talk is cheap, show me the code" - Linus Torvalds</p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="50" style="opacity: 0.3; filter: grayscale(100%);"/>
 </div>
