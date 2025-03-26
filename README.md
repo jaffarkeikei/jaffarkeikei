@@ -8,10 +8,6 @@
 :)
 </div>
 
-<div align="center" >
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaffarkeikei&white=radical" alt="GitHub Streak" />
-</div>
-
 <div align="center" style="margin: 200px 0; gap: 50px; display: flex; justify-content: center; style="line-height: 500;">
   <a href="https://linkedin.com/in/jaffarkeikei">
     <img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 10px; transform: scale(1); transition: 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
