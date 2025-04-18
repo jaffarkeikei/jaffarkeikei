@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/jaffarkeikei">
     <img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white" style="margin: 0 10px; transform: scale(1); transition: 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
-  <a href="https://jaffar.super.site/">
+  <a href="https://jaffarkeikei.com/">
     <img src="https://img.shields.io/badge/Portfolio-808080?style=for-the-badge&logo=about.me&logoColor=white" style="margin: 0 10px; transform: scale(1); transition: 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"/>
   </a>
 </div>
