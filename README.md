@@ -5,7 +5,8 @@
 </div>
 
 <div align="center" style="margin: 200px 0; gap: 50px; display: flex; justify-content: center; style="line-height: 5;">
-:)
+<div style="width: 50px;"></div>
+˙˙˙
 </div>
 
 <div align="center" style="margin: 200px 0; gap: 50px; display: flex; justify-content: center; style="line-height: 500;">
