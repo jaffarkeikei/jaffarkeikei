@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 5; padding: 100px 0;">
   <h1 style="color: #62EFB9; text-shadow: 0 0 15px #62EFB9; margin-bottom: 20px;">jaffar keikei</h1>
-  <h3 style="color: #4D96FF; text-shadow: 0 0 10px #4D96FF; margin-bottom: 30px;">computer Science @ university of toronto</h3>
+  <h3 style="color: #4D96FF; text-shadow: 0 0 10px #4D96FF; margin-bottom: 30px;">Early Career Software Engineer</h3>
   <img src="https://avatars.githubusercontent.com/u/61355293?v=4" alt="Jaffar's Avatar" width="200" style="border-radius:50%; box-shadow: 0 0 20px #62EFB9; transition: transform 0.3s ease-in-out; margin-bottom: 40px;" onmouseover="this.style.transform='rotate(360deg)'" onmouseout="this.style.transform='rotate(0deg)'"/>
 </div>
 
