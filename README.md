@@ -21,8 +21,6 @@
 </picture>
 </div>
 
-![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaffarkeikei&theme=transparent#gh-light-mode-only)
-
 ˙˙˙
 </div>
 <div align="center" style="margin: 200px 0; gap: 50px; display: flex; justify-content: center; style="line-height: 500;">
