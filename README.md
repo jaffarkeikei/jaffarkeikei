@@ -14,11 +14,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jaffarkeikei&show_icons=true&theme=default" alt="GitHub Stats" />
 </picture>
 
-<picture>
-  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=jaffarkeikei&theme=radical" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=jaffarkeikei&theme=default" media="(prefers-color-scheme: light)" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jaffarkeikei&theme=default" alt="GitHub Streak" />
-</picture>
 </div>
 
 ˙˙˙
