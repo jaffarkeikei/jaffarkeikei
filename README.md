@@ -1,6 +1,6 @@
 <div align="center" style="line-height: 5; padding: 100px 0;">
   <h1 style="color: #62EFB9; text-shadow: 0 0 15px #62EFB9; margin-bottom: 20px;">jaffar keikei</h1>
-  <h3 style="color: #4D96FF; text-shadow: 0 0 10px #4D96FF; margin-bottom: 30px;">Software Engineer | Building @ UWaterloo</h3>
+  <h3 style="color: #4D96FF; text-shadow: 0 0 10px #4D96FF; margin-bottom: 30px;">7x hackathon wins | uwaterloo</h3>
 </div>
 
 <div align="center" style="margin: 200px 0; gap: 50px; display: flex; justify-content: center; style="line-height: 5;">
